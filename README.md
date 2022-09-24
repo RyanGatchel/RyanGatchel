@@ -1,19 +1,26 @@
-- 👋 Hi, I’m @RyanGatchel
-  - Ryan Gatchel 
+- 👋🏻 Hi, I’m @RyanGatchel
+
+- A little about me 🔎
+  - I have two rat bois 🐀🐀
+  - lover of coffee ☕
+  - love being outside (when it's not super hot) 🌵🌲
 
 - 👀 I’m interested in ...
-  - Growing my knowledge of full stack using LAMP 💻
-  - Creating business from development and helping other business owners 💼
-  - Getting a cat.. really thinking about it 🐈
+  - LAMP stack 💻
+  - Python 🐍
+  - Creating other streams of income 💼💰
 
 - 🌱 I’m currently learning ...
-  - Front-end web development, mainly focusing on LAMP 
-  - AWS
-  - Python
+  - Python 🐍
+  - Business 💼
+  - LAMP 🖥️ 
+  - AWS ☁️
 
 - 💞️ I’m looking to collaborate on ...
-  - Nothing at the moment by stay tuned 💡
+  - YouTube content 📹
+  - Business ideas 🧠
 
-- 📫 How to reach me ...
-  - https://www.buymeacoffee.com/ryangatchel ☕
-  - www.blueblackdigital.com 🌐
+- 📫 Where to find me ...
+  - www.ryangatchel.com 🌐
+  - shorturl.at/cqrY8 📺
+  - https://twitter.com/Ryan_Gatchel 🐦
