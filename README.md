@@ -22,5 +22,5 @@
 
 - 📫 Where to find me ...
   - www.ryangatchel.com 🌐
-  - shorturl.at/cqrY8 📺
+  - https://www.youtube.com/channel/UCcVTIWxAecDDs1yNL5-RTNA 📺
   - https://twitter.com/Ryan_Gatchel 🐦
