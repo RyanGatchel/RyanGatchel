@@ -21,6 +21,6 @@
   - Business ideas 🧠
 
 - 📫 Where to find me ...
-  - www.ryangatchel.com 🌐
-  - https://www.youtube.com/channel/UCcVTIWxAecDDs1yNL5-RTNA 📺
-  - https://twitter.com/Ryan_Gatchel 🐦
+  - ryangatchel.com 🌐
+  - https://www.youtube.com/@ryangatchel 📺
+  - https://twitter.com/ryangatchel 🐦
