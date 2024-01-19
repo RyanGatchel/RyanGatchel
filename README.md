@@ -2,25 +2,23 @@
 
 - A little about me 🔎
   - I have two rat bois 🐀🐀
-  - lover of coffee ☕
-  - love being outside (when it's not super hot) 🌵🌲
+  - lover of hot chocolate ☕
+  - lover of nature 🌵🌲
 
 - 👀 I’m interested in ...
-  - LAMP stack 💻
   - Python 🐍
+  - Content Creation 
   - Creating other streams of income 💼💰
 
 - 🌱 I’m currently learning ...
   - Python 🐍
   - Business 💼
-  - LAMP 🖥️ 
   - AWS ☁️
 
 - 💞️ I’m looking to collaborate on ...
   - YouTube content 📹
-  - Business ideas 🧠
 
 - 📫 Where to find me ...
-  - ryangatchel.com 🌐
+  - ryangatchel.io 🌐
   - https://www.youtube.com/@vibewithryan 📺
   - https://twitter.com/ryangatchel 🐦
