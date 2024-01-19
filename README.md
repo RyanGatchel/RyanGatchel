@@ -19,6 +19,6 @@
   - YouTube content 📹
 
 - 📫 Where to find me ...
-  - ryangatchel.io 🌐
+  - https://ryangatchel.io 🌐
   - https://www.youtube.com/@vibewithryan 📺
   - https://twitter.com/ryangatchel 🐦
