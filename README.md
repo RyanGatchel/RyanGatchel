@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m @RyanGatchel
 
 - A little about me 🔎
-  - I have two rat bois 🐀🐀
+  - I had two rat bois (passed 2025) 🐀🐀
   - lover of hot chocolate ☕
   - lover of nature 🌵🌲
 
