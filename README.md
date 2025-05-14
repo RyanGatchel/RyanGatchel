@@ -21,4 +21,3 @@
 - 📫 Where to find me ...
   - https://ryangatchel.io 🌐
   - https://www.youtube.com/@vibewithryan 📺
-  - https://twitter.com/ryangatchel 🐦
