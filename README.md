@@ -1,23 +1,23 @@
-- 👋🏻 Hi, I’m @RyanGatchel
+- 👋🏻 Hi, I’m @ryangatchel
 
 - A little about me 🔎
   - I had two rat bois (passed 2025) 🐀🐀
-  - lover of hot chocolate ☕
+  - enjoy learning new things 📖
   - lover of nature 🌵🌲
 
 - 👀 I’m interested in ...
   - Python 🐍
-  - Content Creation 
-  - Creating other streams of income 💼💰
+  - Content Creation 🎥
+  - Creating income streams (at least trying too!) 💼💰
 
 - 🌱 I’m currently learning ...
   - Python 🐍
-  - Business 💼
-  - AWS ☁️
+  - Content Creation 🎞️
+  - Marketing 📈
 
 - 💞️ I’m looking to collaborate on ...
   - YouTube content 📹
 
 - 📫 Where to find me ...
   - https://ryangatchel.io 🌐
-  - https://www.youtube.com/@vibewithryan 📺
+  - https://www.youtube.com 📺
