@@ -20,4 +20,4 @@
 
 - 📫 Where to find me ...
   - https://ryangatchel.io 🌐
-  - https://www.youtube.com/ryangatchel 📺
+  - https://www.youtube.com/@ryangatchel 📺
